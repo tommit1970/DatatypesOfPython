@@ -1,0 +1,4 @@
+language = "python3"
+# run = "python main.py"
+# run = "python 01print_it.py"
+run = "python 02input_it.py"
